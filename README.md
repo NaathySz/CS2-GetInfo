@@ -5,7 +5,3 @@ Plugin that fetches a player's location (country and city), IP, name, link, and 
 ## Command
 
 - `css_getinfo <name/#userid>`: Fetches information of a player by their name.
-
-## Todo
-
-Add player average latency, packet loss and FPS.
